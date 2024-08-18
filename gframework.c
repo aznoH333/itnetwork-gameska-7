@@ -9,8 +9,8 @@
 const int SCREEN_WIDTH = 1280;
 const int SCREEN_HEIGHT = 720;
 const char* WINDOW_NAME = "template window";
-const int DEFAULT_SPRITE_SIZE = 32;
-const float DEFAULT_CAMERA_ZOOM = 2.0f;
+const int DEFAULT_SPRITE_SIZE = 16;
+const float DEFAULT_CAMERA_ZOOM = 4.0f;
 const int SPRITE_ORIGIN_OFFSET = DEFAULT_SPRITE_SIZE >> 1;
 
 
